@@ -1,3 +1,5 @@
+# Run the following to install the library:
+# pip install azure.cosmos.cosmos_client
 import azure.cosmos.cosmos_client as cosmos_client
 from azure.cosmos.partition_key import PartitionKey
 
